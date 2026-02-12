@@ -47,8 +47,8 @@ Cost per Cookie
 Units Sold
 
 **Relationships:**
-Customers (1) → Orders (*)
-Cookie Types (1) → Orders (*)
+1. Customers (1) → Orders (*)
+2. Cookie Types (1) → Orders (*)
 
 This structure enables efficient aggregation and filter propagation across customer, product, and time dimensions.
 
