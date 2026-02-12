@@ -7,13 +7,12 @@ This project presents a Power BI dashboard designed to analyze multi-dimensional
 The objective was to design a scalable analytical framework that supports performance monitoring, profitability assessment, and data-driven marketing decisions.
 
 **Business Problem**
-
--Marketing and sales teams require visibility into:
--Which products drive revenue and profit
--Which customers contribute the highest lifetime value
--How demand fluctuates across time (day-of-week trends)
--Geographic distribution of customers
--Order volume and unit velocity
+Marketing and sales teams require visibility into:
+a. Which products drive revenue and profit
+b. Which customers contribute the highest lifetime value
+c. How demand fluctuates across time (day-of-week trends)
+d. Geographic distribution of customers
+e. Order volume and unit velocity
 
 Without a structured BI layer, performance analysis remains fragmented and reactive.
 This dashboard consolidates transactional data into an integrated analytical model to enable proactive performance optimization.
